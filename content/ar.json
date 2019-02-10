@@ -1,0 +1,59 @@
+{
+    "dir": "rtl",
+    "general": {
+        "user": "أريج",
+        "account": "123456789",
+        "type": "حساب أساسي"
+    },
+    "header": {
+        "backToMain": "عودة إلى الصفحة الرئيسية"
+    },
+    "profile": {
+        "title": "الملف الشخصي",
+        "breadcrumbs": [
+            "الرئيسية",
+            "الملف الشخصي",
+            "المعلومات البنكية"
+        ]
+    },
+    "content": {
+        "title": "المعلومات البنكية",
+        "form": {
+            "title": "التفاصيل الأساسية",
+            "formFields": [
+                {
+                    "type": "input",
+                    "name": "البنك"
+                },
+                {
+                    "type": "input",
+                    "name": "الفرع"
+                },
+                {
+                    "type": "input",
+                    "name": "رقم الحساب"
+                },
+                {
+                    "type": "input",
+                    "name": "رقم الحساب المصرفي الدولي (IBAN)"
+                }
+            ]
+        }
+    },
+    "sidebar": {
+        "navigation": [
+            {
+                "name": "الرئيسية",
+                "icon": "home"
+            },
+            {
+                "name": "الملف الشخصي",
+                "icon": "man-user"
+            },
+            {
+                "name": "قائمة الطلبات",
+                "icon": "list"
+            }
+        ]
+    }
+}

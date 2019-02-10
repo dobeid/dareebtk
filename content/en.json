@@ -1,0 +1,59 @@
+{
+    "dir": "ltr",
+    "general": {
+        "user": "Areej",
+        "account": "123456789",
+        "type": "primary Account"
+    },
+    "header": {
+        "backToMain": "Back to main page"
+    },
+    "profile": {
+        "title": "Personal Profile",
+        "breadcrumbs": [
+            "Home",
+            "Personal Profile",
+            "Bank Information"
+        ]
+    },
+    "content": {
+        "title": "Bank Information",
+        "form": {
+            "title": "Basic Details",
+            "formFields": [
+                {
+                    "type": "input",
+                    "name": "Bank"
+                },
+                {
+                    "type": "input",
+                    "name": "Branch"
+                },
+                {
+                    "type": "input",
+                    "name": "Account Number"
+                },
+                {
+                    "type": "input",
+                    "name": "IBAN"
+                }
+            ]
+        }
+    },
+    "sidebar": {
+        "navigation": [
+            {
+                "name": "Home",
+                "icon": "home"
+            },
+            {
+                "name": "Profile",
+                "icon": "man-user"
+            },
+            {
+                "name": "Orders List",
+                "icon": "list"
+            }
+        ]
+    }
+}
